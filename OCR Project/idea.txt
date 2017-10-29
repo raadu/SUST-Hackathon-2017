@@ -1,0 +1,17 @@
+IDEA 1:
+
+- Cars will have scanner camera.
+- cars will scan roadside shops, hospitals etc.
+- scanner will scan bangla texts and suggest users to go to a specific store.
+
+Example: suppose your fridge has less eggs. So you have to buy eggs. Cars will notify you whenever it crosses a
+store or bazaar.
+
+IDEA 2:
+
+- for blind people.
+- blind people will wear a glass.
+- the glass will scan whatever infront of it.
+- the glass will have a earphone attached to the blind peoples ear.
+- the glass will scan texts and convert the texts to speech. It will then talk back the texts to the blind people using
+earphone.
